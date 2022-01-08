@@ -1,0 +1,38 @@
+{
+  "name": "tailwindcss-global-dark",
+  "version": "1.0.0",
+  "description": "A TailwindCSS variant for class-based dark mode with CSS modules",
+  "main": "src/index.js",
+  "files": [
+    "src/*.js",
+    "dist/"
+  ],
+  "scripts": {
+    "release": "standard-version --skip.changelog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bryanmylee/tailwindcss-global-dark.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "plugin",
+    "css",
+    "modules",
+    "dark"
+  ],
+  "author": "Bryan Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanmylee/tailwindcss-global-dark/issues"
+  },
+  "homepage": "https://github.com/bryanmylee/tailwindcss-global-dark#readme",
+  "peerDependencies": {
+    "tailwindcss": "x"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0",
+    "tailwindcss": "x"
+  }
+}
