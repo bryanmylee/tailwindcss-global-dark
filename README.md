@@ -1,8 +1,8 @@
-[![npm version](http://img.shields.io/npm/v/tailwindcss-global-class-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-class-dark)
-[![npm downloads](https://img.shields.io/npm/dm/tailwindcss-global-class-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-class-dark)
-![license](https://img.shields.io/npm/l/tailwindcss-global-class-dark)
-![build](https://img.shields.io/github/workflow/status/bryanmylee/tailwindcss-global-class-dark/publish)
-[![size](https://img.shields.io/bundlephobia/min/tailwindcss-global-class-dark)](https://bundlephobia.com/result?p=tailwindcss-global-class-dark)
+[![npm version](http://img.shields.io/npm/v/tailwindcss-global-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-dark)
+[![npm downloads](https://img.shields.io/npm/dm/tailwindcss-global-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-dark)
+![license](https://img.shields.io/npm/l/tailwindcss-global-dark)
+![build](https://img.shields.io/github/workflow/status/bryanmylee/tailwindcss-global-dark/publish)
+[![size](https://img.shields.io/bundlephobia/min/tailwindcss-global-dark)](https://bundlephobia.com/result?p=tailwindcss-global-dark)
 
 A TailwindCSS variant for [class-based dark mode](https://tailwindcss.com/docs/dark-mode#toggling-dark-mode-manually) with CSS modules.
 
@@ -27,7 +27,7 @@ In popular frameworks like Svelte, stylesheets are **scoped with CSS modules by 
 ## Installation
 
 ```bash
-$ npm i tailwindcss-global-class-dark
+$ npm i tailwindcss-global-dark
 ```
 
 Add the plugin to `tailwind.config.cjs`:
@@ -36,6 +36,6 @@ Add the plugin to `tailwind.config.cjs`:
 module.exports = {
   ...
   theme: { ... },
-  plugins: [require('tailwindcss-global-class-dark')]
+  plugins: [require('tailwindcss-global-dark')]
 };
 ```
