@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-global-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TailwindCSS variant for class-based dark mode with CSS modules",
   "main": "src/index.js",
   "files": [
