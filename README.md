@@ -1,7 +1,7 @@
 [![npm version](http://img.shields.io/npm/v/tailwindcss-global-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-dark)
 [![npm downloads](https://img.shields.io/npm/dm/tailwindcss-global-dark.svg)](https://www.npmjs.com/package/tailwindcss-global-dark)
 ![license](https://img.shields.io/npm/l/tailwindcss-global-dark)
-![build](https://img.shields.io/github/workflow/status/bryanmylee/tailwindcss-global-dark/publish)
+![build](https://img.shields.io/github/actions/workflow/status/bryanmylee/tailwindcss-global-dark/publish.yml)
 [![size](https://img.shields.io/bundlephobia/min/tailwindcss-global-dark)](https://bundlephobia.com/result?p=tailwindcss-global-dark)
 
 A TailwindCSS variant for [class-based dark mode](https://tailwindcss.com/docs/dark-mode#toggling-dark-mode-manually) with Svelte's scoped stylesheets and CSS modules.
